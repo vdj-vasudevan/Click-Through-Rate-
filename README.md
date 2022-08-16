@@ -78,3 +78,4 @@ target_audience ||Cluster label of the target audience
 
 click_rate (Target Variable) ||Click rate of an email campaign
 
+Model Used : XGbooster and Adaboosting models
